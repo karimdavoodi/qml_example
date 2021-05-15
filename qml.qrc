@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/script.js</file>
+        <file>qml/components/M_button.qml</file>
+        <file>qml/components/M_horizental_layout.qml</file>
+        <file>qml/components/M_logo.qml</file>
+        <file>qml/components/M_title.qml</file>
+        <file>qml/components/M_backgroud_tile.qml</file>
+        <file>resources/assets/button_up.png</file>
+        <file>resources/assets/button_down.png</file>
+        <file>resources/assets/bg.png</file>
+        <file>resources/assets/bluescape-logo.svg</file>
+        <file>resources/sampleWords-1.txt</file>
+        <file>resources/sampleWords-2.txt</file>
+    </qresource>
+</RCC>
